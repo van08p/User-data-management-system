@@ -48,7 +48,7 @@
   }
 
 
-- ## Response
+- Response
   ```json
   {
   "statusCode": 200,
@@ -65,7 +65,7 @@
     }
   }
 
-- ## Response
+- Response
   ```json
   {
     "statusCode": 200,
